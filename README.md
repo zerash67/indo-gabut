@@ -22,8 +22,8 @@ Simpel WhatsApp Bot
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/zerash67/wabot-adi
-> cd wabot-adi
+> git clone https://github.com/zerash67/indo-gabut
+> cd indo gabut
 > npm install
 > npm start
 ```
